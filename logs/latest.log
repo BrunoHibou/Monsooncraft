@@ -1,28 +1,27 @@
-[14:27:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:27:19] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
-[14:27:19] [ServerMain/INFO]: Loaded 7 recipes
-[14:27:19] [ServerMain/INFO]: Loaded 1291 advancements
-[14:27:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[14:27:19] [Server thread/INFO]: Loading properties
-[14:27:19] [Server thread/INFO]: Default game type: SURVIVAL
-[14:27:19] [Server thread/INFO]: Generating keypair
-[14:27:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:27:20] [Server thread/INFO]: Using epoll channel type
-[14:27:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:27:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:27:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:27:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:27:20] [Server thread/INFO]: Preparing level "world"
-[14:27:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:27:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:27:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:27:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:27:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 12%
-[14:27:27] [Worker-Main-2/INFO]: Preparing spawn area: 88%
-[14:27:27] [Server thread/INFO]: Time elapsed: 4580 ms
-[14:27:27] [Server thread/INFO]: Done (7.217s)! For help, type "help"
+[14:36:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:36:24] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
+[14:36:25] [ServerMain/INFO]: Loaded 7 recipes
+[14:36:25] [ServerMain/INFO]: Loaded 1291 advancements
+[14:36:25] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:36:25] [Server thread/INFO]: Loading properties
+[14:36:25] [Server thread/INFO]: Default game type: SURVIVAL
+[14:36:25] [Server thread/INFO]: Generating keypair
+[14:36:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:36:25] [Server thread/INFO]: Using epoll channel type
+[14:36:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:36:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:36:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:36:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:36:26] [Server thread/INFO]: Preparing level "world"
+[14:36:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:36:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:36:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:36:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:36:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:36:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:36:32] [Worker-Main-3/INFO]: Preparing spawn area: 28%
+[14:36:33] [Server thread/INFO]: Time elapsed: 4489 ms
+[14:36:33] [Server thread/INFO]: Done (7.291s)! For help, type "help"
